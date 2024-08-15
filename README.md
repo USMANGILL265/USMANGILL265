@@ -1,8 +1,8 @@
 <h1>HI I'm Muhammad Usman Gill</h1>
 
-<h3>Front-end Developer </h>
+<h2>Front-end Developer </h2>
 
-<h4>About me:</h4>
+<h3>About me:</h3>
 
 <ul>
   <li>Doing Bachelor's in CS from NUML University (3.4/4 GPA) </li>
@@ -16,7 +16,14 @@
   <li>@<a href= "https://www.linkedin.com/posts/usman-gill26_monkeytype-monkeytype-productivity-activity-7227323955760562179-mCQB?utm_source=share&utm_medium=member_desktop">Typing Speed</a> Upto 60 WPM</li>
 </ul>
 
-<h4>Contact with me</h4>
+<h3>My Skill Set</h3>
+<table>
+  <h3>Front-end</h3>
+</table>
+ثٹٹ
+<ثث
+
+
 
 
 
