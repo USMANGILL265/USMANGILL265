@@ -61,18 +61,19 @@
 <h3>Contact with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/usman-gill26/">
-    <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png " height="15px">
-  Usman Gill</a>
-  <a href="">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0XvFduY7sDBknSh_lJd80OzsdZ_LaHL2w-g&s" height="19px">
-    usmangill2655@gamil.com</a>
-  <a href="https://lablab.ai/u/@UsmanGill">
-    <img src="https://lablab.ai/_next/image?url=https%3A%2F%2Fimagedelivery.net%2FK11gkZF3xaVyYzFESMdWIQ%2Ffd435687-b17c-4720-0434-a16e46ea8200%2Ffull&w=3840&q=80" Width="25px">
-    Lablab Profile</a>
-  <a href="https://leetcode.com/u/UsmanGill1/">
-    <img src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" width=25px>
-      Usman Gill</a>
+    <img src="https://img.shields.io/badge/Usman Gill -blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="usmangill2655@gmail.com">
+    <img src="https://img.shields.io/badge/USMANGILL2655@GMAIL.COM-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://www.instagram.com/your-instagram-profile">
+    <img src="https://img.shields.io/badge/Instagram-Iqra%20Tabassum-orange?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
+  <a href="https://lablab.ai/u/your-lablab-profile">
+    <img src="https://img.shields.io/badge/LabLab%20Profile-View-blue?style=for-the-badge" alt="LabLab Profile">
+  </a>
 </div>
+
 
 <h2>Github stats:</h2>
 
