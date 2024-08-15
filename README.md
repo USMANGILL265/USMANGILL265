@@ -61,16 +61,16 @@
 <h3>Contact with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/usman-gill26/">
-    <img src="https://img.shields.io/badge/Usman Gill -blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/usman%20gill-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="usmangill2655@gmail.com">
-    <img src="https://img.shields.io/badge/USMANGILL2655@GMAIL.COM-red?style=for-the-badge&logo=gmail" alt="Email">
+  <a href="mailto:usmangill2655@gmail.com">
+    <img src="https://img.shields.io/badge/usmangill2655%40gmail.com-orange?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-  <a href="https://www.instagram.com/your-instagram-profile">
-    <img src="https://img.shields.io/badge/Instagram-Iqra%20Tabassum-orange?style=for-the-badge&logo=instagram" alt="Instagram">
+  <a href="https://leetcode.com/u/UsmanGill1/">
+    <img src="https://img.shields.io/badge/usman%20gill-black?style=for-the-badge&logo=leetcode" alt="LeetCode">
   </a>
-  <a href="https://lablab.ai/u/your-lablab-profile">
-    <img src="https://img.shields.io/badge/LabLab%20Profile-View-blue?style=for-the-badge" alt="LabLab Profile">
+  <a href="https://lablab.ai/u/@UsmanGill">
+    <img src="https://img.shields.io/badge/lablab%20profile-blue?style=for-the-badge" alt="LabLab Profile">
   </a>
 </div>
 
