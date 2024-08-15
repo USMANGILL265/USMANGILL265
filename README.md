@@ -16,17 +16,7 @@
   <li>@<a href= "https://www.linkedin.com/posts/usman-gill26_monkeytype-monkeytype-productivity-activity-7227323955760562179-mCQB?utm_source=share&utm_medium=member_desktop">Typing Speed</a> Upto 60 WPM</li>
 </ul>
 
-<h4>My Skill Set</h4>
-    <div>
-        <h3>Frontend</h3>
-        <div class="logo-container">
-            <img src="html.png" alt="HTML Logo">
-            <img src="css.png" alt="CSS Logo">
-            <img src="bootstrap.png" alt="Bootstrap Logo">
-            <img src="Tailwind CSS.png" alt="Tailwind CSS Logo" width="50px">
-            <img src="javascript.png" alt="JavaScript Logo">
-        </div>
-    </div>
+
 
 
 
