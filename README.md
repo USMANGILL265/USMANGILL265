@@ -52,7 +52,8 @@
                        <img src="Vercel-Dark.svg" height=50px>
                   <br>
                        <img src="Discord.svg" height=50px>
-                       <img src="" height=50px>
+                       <img src="LinkedIn.svg" height=50px>
+                       <img src="Windows-Dark.svg" height=50px>
                 </div>
             </td>
         </tr>
