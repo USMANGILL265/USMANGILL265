@@ -25,7 +25,8 @@
         </tr>
         <tr>
             <td>
-                <div class="logo-container">  
+                <div class="logo-container"> 
+                  <img 
                   <img src="https://w7.pngwing.com/pngs/278/620/png-transparent-html-5-logo-area-text-brand-metroui-apps-html-5-text- 
                             trademark-orange-thumbnail.png" height=60px >
                   <img src="" height=60px>
@@ -74,9 +75,18 @@
 
 <h2>Github stats:</h2>
 
-<div align="center">
-  ![Usman Gill GitHub stats](https://github-readme-stats.vercel.app/api?USMANGILL265=anuraghazra&theme=dark&show_icons=true)
-</div>
+<p align="center">
+  <a href="https://github.com/USMANGILL265">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USMANGILL265&theme=dark&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USMANGILL265&theme=dark&layout=compact" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/USMANGILL265">
+    <img width="70%" src="https://streak-stats.demolab.com/?user=USMANGILL265&theme=dark" alt="GitHub Streak" />
+  </a>
+</p>
+
 
 
 
