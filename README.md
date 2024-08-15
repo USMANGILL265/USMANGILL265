@@ -25,11 +25,7 @@
         </tr>
         <tr>
             <td>
-                <div class="logo-container"> 
-                  <img 
-                  <img src="https://w7.pngwing.com/pngs/278/620/png-transparent-html-5-logo-area-text-brand-metroui-apps-html-5-text- 
-                            trademark-orange-thumbnail.png" height=60px >
-                  <img src="" height=60px>
+                <div class="logo-container">
                   <img src="" height=60px>
                   <img src="" height=60px>
                   <img src="" height=60px>
@@ -83,7 +79,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/USMANGILL265">
-    <img width="70%" src="https://streak-stats.demolab.com/?user=USMANGILL265&theme=dark" alt="GitHub Streak" />
+    <img width="50%" src="https://streak-stats.demolab.com/?user=USMANGILL265&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
 
