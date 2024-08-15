@@ -17,15 +17,16 @@
 </ul>
 
 <h4>My Skill Set</h4>
-<table>
-  <tr>
-    <td>
-      <img
-    </td>
-  </tr>
-</table>
-
-
+    <div>
+        <h3>Frontend</h3>
+        <div class="logo-container">
+            <img src="html.png" alt="HTML Logo">
+            <img src="css.png" alt="CSS Logo">
+            <img src="bootstrap.png" alt="Bootstrap Logo">
+            <img src="Tailwind CSS.png" alt="Tailwind CSS Logo" width="50px">
+            <img src="javascript.png" alt="JavaScript Logo">
+        </div>
+    </div>
 
 
 
