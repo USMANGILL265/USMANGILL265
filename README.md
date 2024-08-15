@@ -18,10 +18,26 @@
 
 <h3>My Skill Set</h3>
 <table>
-  <h3>Front-end</h3>
+  <tr>
+            <td class="category-title"><h3>Frontend</h3></td>
+            <td class="category-title"><h3>Languages</h3></td>
+            <td class="category-title"><h3></h3>Others</td>
+        </tr>
+        <tr>
+            <td>
+                <div class="logo-container">  
+                </div>
+            </td>
+            <td>
+                <div class="logo-container">   
+                </div>
+            </td>
+            <td>
+                <div class="logo-container">  
+                </div>
+            </td>
+        </tr>
 </table>
-ثٹٹ
-<ثث
 
 
 
