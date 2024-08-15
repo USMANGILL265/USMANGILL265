@@ -63,7 +63,7 @@
   <a href="https://www.linkedin.com/in/usman-gill26/">
     <img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png " height="15px">
   Usman Gill</a>
-  <a href="https://mail.google.com/mail/u/0/#inbox">
+  <a href="usmangill2655@gmail.com">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0XvFduY7sDBknSh_lJd80OzsdZ_LaHL2w-g&s" height="19px">
     usmangill2655@gamil.com</a>
   <a href="https://lablab.ai/u/@UsmanGill">
