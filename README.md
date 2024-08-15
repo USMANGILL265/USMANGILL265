@@ -26,29 +26,33 @@
         <tr>
             <td>
                 <div class="logo-container">
-                  <img src="" height=60px>
-                  <img src="" height=60px>
-                  <img src="" height=60px>
+                  <img src="HTML.svg" height=50px>
+                  <img src="CSS.svg" height=50px>
+                  <img src="Bootstrap.svg" height=50px>
+                  <img src="TailwindCSS-Dark.svg" height=50px>
+                  <br>
+                  <img src="JavaScript.svg" height=50px>
                 </div>
             </td>
             <td>
                 <div class="logo-container">  
-                       <img src="" height=60px>
-                       <img src="" height=60px>
-                       <img src="" height=60px>
-                       <img src="" height=60px>
-                       <img src="" height=60px>
+                       <img src="CPP.svg" height=50px>
+                       <img src="JavaScript.svg" height=50px>
+                       <img src="Java-Dark.svg" height=50px>
+                       <img src="TypeScript.svg" height=50px>
+                  <br>
+                       <img src="Python-Dark.svg" height=50px>
                 </div>
             </td>
             <td>
                 <div class="logo-container">  
-                       <img src="" height=60px>
-                       <img src="" height=60px>
-                       <img src="" height=60px>
-                       <img src="" height=60px>
-                       <img src="" height=60px>
-                       <img src="" height=60px>
-                       <img src="" height=60px>
+                       <img src="Github-Dark.svg" height=50px>
+                       <img src="Figma-Dark.svg" height=50px>
+                       <img src="VSCode-Dark.svg" height=50px>
+                       <img src="Vercel-Dark.svg" height=50px>
+                  <br>
+                       <img src="Discord.svg" height=50px>
+                       <img src="" height=50px>
                 </div>
             </td>
         </tr>
