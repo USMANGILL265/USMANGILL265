@@ -70,7 +70,7 @@
     <img src="https://img.shields.io/badge/usman%20gill-black?style=for-the-badge&logo=leetcode" alt="LeetCode">
   </a>
   <a href="https://lablab.ai/u/@UsmanGill">
-    <img src="https://img.shields.io/badge/lablab%20profile-blue?style=for-the-badge" alt="LabLab Profile">
+    <img src="https://img.shields.io/badge/lablab%20profile-yellow?style=for-the-badge" alt="LabLab Profile">
   </a>
 </div>
 
