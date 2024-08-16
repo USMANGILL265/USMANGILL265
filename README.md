@@ -1,6 +1,6 @@
 <h1>HI I'm Muhammad Usman Gill</h1>
 
-<h2>Front-end Developer </h2>
+<h2> Front-end Developer 🖥️</h2>
 
 <h3>About me:</h3>
 
@@ -16,7 +16,7 @@
   <li>@<a href= "https://www.linkedin.com/posts/usman-gill26_monkeytype-monkeytype-productivity-activity-7227323955760562179-mCQB?utm_source=share&utm_medium=member_desktop">Typing Speed</a> Upto 60 WPM</li>
 </ul>
 
-<h3>My Skill Set:</h3>
+<h3>My Skill Set 🛠️:</h3>
 <table>
   <tr>
             <td class="category-title"><h3>Frontend</h3></td>
@@ -58,30 +58,28 @@
             </td>
         </tr>
 </table>
-<h3>Contact with me:</h3>
+ <h2>Connect with me🤝:</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/usman-gill26/">
-    <img src="https://img.shields.io/badge/usman%20gill-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:usmangill2655@gmail.com">
-    <img src="https://img.shields.io/badge/usmangill2655%40gmail.com-orange?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="https://leetcode.com/u/UsmanGill1/">
-    <img src="https://img.shields.io/badge/usman%20gill-black?style=for-the-badge&logo=leetcode" alt="LeetCode">
-  </a>
-  <a href="https://lablab.ai/u/@UsmanGill">
-    <img src="https://img.shields.io/badge/lablab%20profile-yellow?style=for-the-badge" alt="LabLab Profile">
-  </a>
+    <a href="https://www.linkedin.com/in/usman-gill26/" target="_blank"><img src="https://img.shields.io/badge/-Usman%20Gill-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:usmangill2655@gmail.com"><img src="https://img.shields.io/badge/-mailto:usmangill2655@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/UsmanGill1/" target="_blank"><img src="https://img.shields.io/badge/-Usman%20Gill-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+    <a href="https://lablab.ai/u/@UsmanGill" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
 </div>
 
 
-<h2>Github stats:</h2>
+
+<h2>Github stats 📈:</h2>
 
 <p align="center">
   <a href="https://github.com/USMANGILL265">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USMANGILL265&theme=dark&show_icons=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USMANGILL265&theme=dark&layout=compact" />
   </a>
+</p>
+<p align="center">
+  <a href="https://github.com/tayyabadev">
+   <img height="200" width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=USMANGILL265&bg_color=0d1117&color=FFFFFF&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FFFFFF&border_radius=20px" />
+  </a> 
 </p>
 <p align="center">
   <a href="https://github.com/USMANGILL265">
@@ -91,6 +89,8 @@
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmangill265" alt="usmangill265" /></a> </p     <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=usmangill265&label=Profile%20views&color=0e75b6&style=flat" alt="usmangill265" /> </p>
+
+<h2 align="center">💻  My Repositories ⬇️ </h2>
 
 
 
