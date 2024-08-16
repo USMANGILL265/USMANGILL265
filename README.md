@@ -89,11 +89,7 @@
   </a>
 </p>
 <br>
-<div align="center">
- <a href="https://github.com/USMANGILL265">
-    <img src="https://img.shields.io/badge/Profile%20views-8-orange?style=for-the-badge" alt="Github">
-</a>
-</div>
+
 
 
 
