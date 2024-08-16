@@ -61,7 +61,7 @@
  <h2>Connect with me🤝:</h2>
 <div align="center">
     <a href="https://www.linkedin.com/in/usman-gill26/" target="_blank"><img src="https://img.shields.io/badge/-Usman%20Gill-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-    <a target="_blank" href="mailto:usmangill2655@gmail.com"><img src="https://img.shields.io/badge/-mailto:usmangill2655@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a target="_blank" href="mailto:usmangill2655@gmail.com"><img src="https://img.shields.io/badge/-usmangill2655@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://leetcode.com/u/UsmanGill1/" target="_blank"><img src="https://img.shields.io/badge/-Usman%20Gill-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
     <a href="https://lablab.ai/u/@UsmanGill" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
 </div>
