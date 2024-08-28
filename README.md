@@ -6,7 +6,7 @@
 
 <ul>
   <li>Doing Bachelor's in CS from NUML University (3.4/4 GPA) </li>
-  <li>@Moderator at iCodeGuru</li>
+  <li>@Moderator at iCodeGuru </li>
   <li>@<a href="https://www.linkedin.com/in/usman-gill26/">LinkedIn </a>Currently doing DSA and Web Development </li>
  <li>@<a href="https://leetcode.com/u/UsmanGill1/leetcode">Leetcode</a> Solved 90+ Data Structure and Algorithm problems in C++</li>
   <li>@lablab.ai: <a href= "https://lablab.ai/u/@UsmanGill">Participated</a> in multiple International AI Hackathons (upto 8)</li>
