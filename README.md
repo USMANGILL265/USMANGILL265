@@ -10,11 +10,10 @@
   <li>@<a href="https://www.linkedin.com/in/usman-gill-251553371/">LinkedIn </a>Currently doing DSA and Web Development </li>
  <li>@<a href="https://leetcode.com/u/UsmanGill1/leetcode">Leetcode</a> Solved 90+ Data Structure and Algorithm problems in C++</li>
   <li>@lablab.ai: <a href= "https://lablab.ai/u/@UsmanGill">Participated</a> in multiple International AI Hackathons (upto 8)</li>
-  <li>@WordPress: <a href= "https://www.linkedin.com/posts/usman-gill26_usman-activity-7192202974641721344-gShe?utm_source=share&utm_medium=member_desktop">Winner🥇 </a>of WordPress Hackathon</li>
+  <li>@WordPress: <a href= "https://www.linkedin.com/in/usman-gill-251553371/details/certifications/1750964915303/single-media-viewer/?profileId=ACoAAFwYdp0B2BVOvo4udxjLj4ANrWt1kxqZKIg">Winner🥇 </a>of WordPress Hackathon</li>
   <li>@Harvard University(CS50x_PuzzleDay_Winner): Our Team won
-    <a href= "https://www.linkedin.com/posts/usman-gill26_usman-activity-7184951712451813376-rpII?utm_source=share&utm_medium=member_desktop">1st Place</a> solving (9/9) complex puzzles 
+    <a href= "https://www.linkedin.com/in/usman-gill-251553371/details/certifications/1750961901311/single-media-viewer/?profileId=ACoAAFwYdp0B2BVOvo4udxjLj4ANrWt1kxqZKIg">1st Place</a> solving (9/9) complex puzzles 
   </li>
-  <li>@<a href= "https://www.linkedin.com/posts/usman-gill26_monkeytype-monkeytype-productivity-activity-7227323955760562179-mCQB?utm_source=share&utm_medium=member_desktop">Typing Speed</a> Upto 60 WPM</li>
 </ul>
 
 <h3>My Skill Set 🛠️:</h3>
