@@ -7,7 +7,7 @@
 <ul>
   <li>Doing Bachelor's in CS from NUML University (3.4/4 GPA) </li>
   <li>@Moderator at iCodeGuru </li>
-  <li>@<a href="https://www.linkedin.com/in/usman-gill26/">LinkedIn </a>Currently doing DSA and Web Development </li>
+  <li>@<a href="https://www.linkedin.com/in/usman-gill-251553371/">LinkedIn </a>Currently doing DSA and Web Development </li>
  <li>@<a href="https://leetcode.com/u/UsmanGill1/leetcode">Leetcode</a> Solved 90+ Data Structure and Algorithm problems in C++</li>
   <li>@lablab.ai: <a href= "https://lablab.ai/u/@UsmanGill">Participated</a> in multiple International AI Hackathons (upto 8)</li>
   <li>@WordPress: <a href= "https://www.linkedin.com/posts/usman-gill26_usman-activity-7192202974641721344-gShe?utm_source=share&utm_medium=member_desktop">Winner🥇 </a>of WordPress Hackathon</li>
@@ -61,7 +61,7 @@
 </table>
  <h2>Connect with me🤝:</h2>
 <div align="center">
-    <a href="https://www.linkedin.com/in/usman-gill26/" target="_blank"><img src="https://img.shields.io/badge/-Usman%20Gill-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/usman-gill-251553371/" target="_blank"><img src="https://img.shields.io/badge/-Usman%20Gill-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
     <a target="_blank" href="mailto:usmangill2655@gmail.com"><img src="https://img.shields.io/badge/-usmangill2655@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://leetcode.com/u/UsmanGill1/" target="_blank"><img src="https://img.shields.io/badge/-Usman%20Gill-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
     <a href="https://lablab.ai/u/@UsmanGill" target="_blank"><img src="https://img.shields.io/badge/-LabLab Profile-3B5998?style=flat&logo=LabLab&logoColor=white"/></a>
