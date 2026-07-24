@@ -72,8 +72,6 @@
 
 <p align="center">
   <a href="https://github.com/USMANGILL265">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=USMANGILL265&theme=dark&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USMANGILL265&theme=dark&layout=compact" />
   </a>
 </p>
 <p align="center">
