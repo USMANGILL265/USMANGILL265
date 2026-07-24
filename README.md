@@ -68,30 +68,6 @@
 
 
 
-<h2>Github stats 📈:</h2>
-
-<p align="center">
-  <a href="https://github.com/USMANGILL265">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/tayyabadev">
-   <img height="200" width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=USMANGILL265&bg_color=0d1117&color=FFFFFF&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FFFFFF&border_radius=20px" />
-  </a> 
-</p>
-<p align="center">
-  <a href="https://github.com/USMANGILL265">
-    <img width="50%" src="https://streak-stats.demolab.com/?user=USMANGILL265&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmangill265" alt="usmangill265" /></a> </p     <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=usmangill265&label=Profile%20views&color=0e75b6&style=flat" alt="usmangill265" /> </p>
-
-<h2 align="center">💻  My Repositories ⬇️ </h2>
-
-
-
 
 
 
